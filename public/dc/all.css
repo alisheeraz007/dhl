@@ -1,0 +1,51 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body .main-contain {
+    background-color: black;
+}
+
+.elementor-widget-rs-heading .rs-heading .title-inner .title {
+    color: #adefd1ff;
+}
+
+.elementor-11474 .elementor-element.elementor-element-95e9a92 .rs-addon-services .services-part .services-title .title {
+    color: #adefd1ff;
+}
+
+.elementor-11474 .elementor-element.elementor-element-57320f4 .rs-addon-services .services-part .services-title .title {
+    color: #adefd1ff;
+}
+
+.elementor-widget-rs-service-grid .rs-addon-services .services-part .services-text .services-txt {
+    color: white;
+}
+
+.elementor-11474
+    .elementor-element.elementor-element-a8dcdde:not(.elementor-motion-effects-element-type-background)
+    > .elementor-column-wrap,
+.elementor-11474
+    .elementor-element.elementor-element-a8dcdde
+    > .elementor-column-wrap
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-color: black;
+    border-color: #adefd1ff;
+}
+
+b,
+label {
+    color: #adefd1ff;
+}
+
+.gform_wrapper .gform_footer input.button,
+.gform_wrapper .gform_footer input[type="submit"],
+.gform_wrapper .gform_page_footer input.button,
+.gform_wrapper .gform_page_footer input[type="submit"] {
+    background-color: black !important;
+}
+
+.elementor-column-wrap lementor-element-populated {
+    background-color: #adefd1ff !important;
+}

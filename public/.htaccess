@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule ^/?$ index.html [NC,L] 
+RewriteRule ^(dlh|ua)$ index.$1.html [NC,L]
